@@ -19,6 +19,29 @@ Users can input transaction details (like amount, balance, type of transaction, 
 - 📊 Developed and analyzed in **Python / Jupyter Notebook**
 
 ---
+## 🗂️ Project Structure
+
+fraud-detection-app/
+│
+├── fraud_detection.py # Main Streamlit app file
+├── fraud_detection_pipeline.pkl # Pre-trained model file
+├── AIML Dataset.csv # Dataset used for model training (optional)
+├── analysis_model.ipynb # Model training and analysis notebook
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
+
+---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/<your-username>/fraud-detection-app.git
+cd fraud-detection-app
+
+pip install -r requirements.txt
+
+streamlit run fraud_detection.py
 
 
 
