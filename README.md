@@ -13,13 +13,13 @@ Users can input transaction details (like amount, balance, type of transaction, 
 
 ##  Features
 
-- 🧾 User-friendly web interface built with **Streamlit**  
-- 💡 Real-time fraud prediction using a pre-trained ML model  
-- 📦 Uses a serialized model file (`fraud_detection_pipeline.pkl`)  
-- 📊 Developed and analyzed in **Python / Jupyter Notebook**
+- User-friendly web interface built with **Streamlit**  
+- Real-time fraud prediction using a pre-trained ML model  
+- Uses a serialized model file (`fraud_detection_pipeline.pkl`)  
+- Developed and analyzed in **Python / Jupyter Notebook**
 
 ---
-## 🗂️ Project Structure
+## Project Structure
 
 fraud-detection-app/
 │
@@ -32,9 +32,9 @@ fraud-detection-app/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
-### 1️⃣ Clone this repository
+###Clone this repository
 ```bash
 git clone https://github.com/<your-username>/fraud-detection-app.git
 cd fraud-detection-app
